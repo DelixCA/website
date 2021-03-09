@@ -3,7 +3,7 @@ CyberEncrypt's Website.
 <br>
 <br>
 ## Written in
-This Website is written in HTML.
+This Website is written in HTML and CSS.
 <br>
 <br>
 ## FAQ
