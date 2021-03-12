@@ -19,3 +19,8 @@ Q: What is CyberEncrypt written in?
 <br>
 <br>
 A: It is written in Go, It is based on [Step CA by Smallstep](https://github.com/smallstep/certificates)
+<br>
+<br>
+© 2021 ®CyberEncrypt CA.
+<br>
+®CyberEncrypt CA is an registered trademark of CyberSafe Labs, Inc.
